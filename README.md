@@ -32,7 +32,7 @@ I’m a passionate **full-stack developer** from Morocco, focused on building ef
 
 ### 💼 My Top Projects:
 
-- **[Car Rental Management System](https://github.com/ganbour/car-rental-system)** – A complete Java-based system for managing car rentals.
+- **[Car Rental Management System](https://[github.com/ganbour/car-rental-system](https://github.com/ganbour/Java-Car-Rental-Management-System))** – A complete Java-based system for managing car rentals.
 - **[XAU/USD Trading Bot](https://github.com/your-username/xau-trading-bot)** – A fully automated trading bot for gold trading using Pine Script.
 - **[Odoo 17 Custom Module](https://github.com/your-username/odoo-custom-module)** – A module for custom fields, views, and functionality in Odoo 17.
 
